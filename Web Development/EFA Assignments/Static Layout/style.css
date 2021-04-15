@@ -1,0 +1,88 @@
+body{
+    background-color: yellow;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: 5%;
+    height: 16.5%;
+    position: fixed;
+    text-align: center;
+    border: 1px solid black;
+    background-color: rebeccapurple;
+    right: 0;
+    top: 0;
+    
+    
+}
+
+li a{
+    display: block;
+    width: 94px;
+    padding: 5px;
+    border-bottom: 1px solid black;
+}
+
+li a:hover{
+    background-color:violet;
+    color:springgreen;
+}
+
+#top-container{
+    background-color: crimson;
+    padding: 0;
+    margin: 0;
+    border: 5px solid dodgerblue;
+
+}
+
+#m{
+        height: 125px;
+        width: 125px;
+}
+
+#mario{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-top: 0;
+    padding: 0;
+}
+
+#hat{
+    height: 500;
+    width: 500;
+    margin: 0;
+    padding: 5px;
+
+}
+
+#game{
+
+
+}
+
+#gif1left{
+    height: 150px;
+    width: 150px;
+}
+
+#gif2right{
+    height: 150px;
+    width: 200px;
+
+}
+
+#bottom-container{
+background-color: dodgerblue;
+margin: 0% auto;
+border: 5px solid crimson;
+}
+
+#handwrite{
+
+}
+
+#reasonswhy{
+
+}
